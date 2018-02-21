@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "モダンでないコンバータ",
+    "name": "もはやモダンでないコンバータ",
     "description": "もはやモダンでない記事をモダンでないと表示します",
     "version": "0.1",
     "content_scripts": [{
